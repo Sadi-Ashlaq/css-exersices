@@ -1,0 +1,12 @@
+table tr,td{
+	border:solid 1px black;
+	padding:5px;
+	border-radius:0.4em;
+}
+table{
+	border-spacing: 10px;
+}
+td{
+	box-shadow: 3px 3px 3px silver
+}
+

@@ -1,0 +1,13 @@
+pre {
+	font-family: Consolas, Menlo, Monaco, Courier New, monospace;
+	font-weight: bold;
+}
+a{
+	color:#0033cc;
+}
+a:link {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
