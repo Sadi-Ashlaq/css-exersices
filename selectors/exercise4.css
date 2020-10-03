@@ -1,1 +1,22 @@
 /* this is for you to complete */
+li ul{
+	color: blue;
+	list-style-type: none;
+}
+li:first-child {
+	font-weight: bold;
+}
+li a{
+	color: red;
+}
+p a{
+	color: green;
+}
+
+
+/*p:only-of-type {*/
+
+p:only-of-type a:only-child{
+	color: purple;
+	background-color: yellow;
+}
